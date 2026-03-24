@@ -6,26 +6,19 @@
 * E-ISSN: 2147-6799
 
 **Abstract:**
-In distributed clustered systems, efficient network resource resolution is vital for maintaining performance. DNS lookup with a database backend can cause latency and scalability challenges as cluster size grows, due to database query overhead, increased load, and contention. In contrast, host table lookups scale better with lower latency because they use simple in-memory mappings. However, database-backed DNS lookups degrade noticeably with larger clusters, impacting system responsiveness. This paper addresses these issues by optimizing DNS resolution through the use of host tables.
+Modern distributed systems generate diverse telemetry data, but isolated analysis of metrics, logs, and traces delays detection of systemwide failures. This work proposes a hybrid telemetry fusion framework that integrates multi source data into a unified representation for improved observability. By enabling cross layer correlation and temporal alignment, the approach captures early indicators of cascading failures more effectively. The framework enhances early detection capability and supports proactive identification of system instability in large scale distributed environments.
 
 **Key Contributions:**
-* Algorithm Development
-  Designed and optimized hsot table lookup process to achieve high DNS resolution.
-* Performance Comparison
-  Conducted bench marking between DataBase DNS lookup time and Hsot Table lookup time.
-* Reserach Leadership
-  Led the research and technical implementation , focusing on advancing distributed database through algorithm innovation.
+* **Hybrid Telemetry Fusion Framework Design:**\
+Developed a unified framework that integrates metrics, logs, traces, and network signals to enable early detection of systemwide failures in distributed environments.
+* **Cross Layer Correlation Mechanism:**\
+Designed techniques for telemetry alignment, temporal correlation, and semantic enrichment to capture relationships across multiple system layers.
+* **Machine Learning Driven Detection Model:**\
+Implemented a fusion based detection approach using machine learning to identify early anomaly patterns and fault propagation signals.
+* **Experimental Validation Across Cluster Sizes:**\
+Conducted performance evaluation on clusters with 3, 5, 7, 9, and 11 nodes, demonstrating reduced detection latency compared to baseline methods.
 
-**Relevance & Real-World Impact**
 
-* **Efficient DNS Resolution Mechanisms :**\
-    DNS resolution was significantly improved, resulting in reduced query latency and faster domain name lookups. These enhancements contributed to more responsive and reliable performance across distributed environments.
-* **Enhanced Query Performance:** \
-    Overall query latency was significantly reduced as a result of optimized DNS handling.Improved resolution pathways also boosted throughput, enabling faster and more reliable service discovery across distributed systems.need to add here
-* **Academic Recognition :** \
-    Referenced across academic works and technical analyses related to DNS resolution and query performance enhancements.
-* **Educational Impact:** \
-    Findings incorporated into educational programs and research efforts, supporting continued academic dialogue on container orchestration and cloud system efficiency.
 
 **Experimental Results (Summary)**:
 
