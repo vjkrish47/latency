@@ -3,9 +3,7 @@
 * Author: Vijaya Krishna Namala
 * Published In : International Journal of Intelligent Systems and Applications in Engineering (IJISAE)
 * Publication Date: Jan 2023
-* E-ISSN: 2229-7677
-* Impact Factor: 9.88
-
+* E-ISSN: 2147-6799
 
 **Abstract:**
 In distributed clustered systems, efficient network resource resolution is vital for maintaining performance. DNS lookup with a database backend can cause latency and scalability challenges as cluster size grows, due to database query overhead, increased load, and contention. In contrast, host table lookups scale better with lower latency because they use simple in-memory mappings. However, database-backed DNS lookups degrade noticeably with larger clusters, impacting system responsiveness. This paper addresses these issues by optimizing DNS resolution through the use of host tables.
