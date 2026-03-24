@@ -23,11 +23,11 @@ Conducted performance evaluation on clusters with 3, 5, 7, 9, and 11 nodes, demo
 The fusion framework enables earlier identification of systemwide failures by correlating multi source telemetry signals before visible degradation occurs.
 * **Reduced Detection Latency :**\
 Significant reduction in mean detection latency improves system responsiveness and supports proactive failure mitigation in distributed environments.
-**Improved System Reliability :**\
+* **Improved System Reliability :**\
 By detecting anomalies at an early stage, the approach helps prevent cascading failures and enhances stability across large scale distributed systems.\
-**Academic Recognition :**\
+* **Academic Recognition :**\
 Provides a strong foundation for research in observability, anomaly detection, and telemetry fusion within distributed system environments.\
-**Educational Impact :**\
+* **Educational Impact :**\
 The work supports academic learning and research by demonstrating the importance of multi source telemetry integration for advanced system monitoring.
 
 **Experimental Results (Summary)**:
