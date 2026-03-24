@@ -48,6 +48,6 @@ E-ISSN-2147-6799 \
 **License** \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijsat.org/ \
+https://www.ijisae.org/ \
 **Author Contact** \
-**LinkedIn**: http://linkedin.com/in/kanagalakshmi-murugan-12b278199 | **Email**: kanagalakshmi2004@gmail.com
+**LinkedIn**: http://linkedin.com/in/kanagalakshmi-murugan-12b278199 | **Email**: vijaya.namala@gmail.com
