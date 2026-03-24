@@ -32,19 +32,19 @@ The work supports academic learning and research by demonstrating the importance
 
 **Experimental Results (Summary)**:
 
-  | Nodes | Database DNS Lookup Time - Cached (ms) | Host Table Lookup Time (ms) | Improvement (%) |
-  |-------|----------------------------------------| ----------------------------| ----------------|
-  | 3     | 0.8                                    | 0.1                         | 87.5            |
-  | 5     | 0.8                                    | 0.15                        | 81.3            |
-  | 7     | 0.9                                    | 0.2                         | 77.8            |
-  | 9     | 0.9                                    | 0.25                        | 72.2            |
-  | 11    | 0.9                                    | 0.3                         | 66.7            |
+  | Nodes | Baseline Latency (ms) | Fusion Model Latency (ms) | Improvement (%) |
+  |-------|-----------------------| --------------------------| ----------------|
+  | 3     | 940                   | 410                       | 56.38           |
+  | 5     | 880                   | 360                       | 59.09           |
+  | 7     | 820                   | 330                       | 59.76           |
+  | 9     | 790                   | 310                       | 60.76           |
+  | 11    | 770                   | 295                       | 61.69           |
 
 **Citation** \
-OPTIMIZING DNS LOOKUP LATENCY FOR ENHANCED PERFORMANCE IN CLUSTERED SYSTEMS. \
-Kanagalakshmi Murugan \
-International Journal on Science and Technology \
-E-ISSN-2229-7677 \
+Hybrid Telemetry Fusion for Early Detection of Systemwide Failures. \
+Vijaya Krishna Namala \
+International Journal of Intelligent Systems and Applications in Engineering \
+E-ISSN-2147-6799 \
 **License** \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
