@@ -50,4 +50,4 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijisae.org/ \
 **Author Contact** \
-**LinkedIn**: http://linkedin.com/in/kanagalakshmi-murugan-12b278199 | **Email**: vijaya.namala@gmail.com
+**LinkedIn**: linkedin.com/in/vijaya-krishna-namala-a42b2958 | **Email**: vijaya.namala@gmail.com
